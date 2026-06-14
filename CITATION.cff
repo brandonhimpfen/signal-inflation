@@ -1,0 +1,19 @@
+
+cff-version: 1.2.0
+title: "Signal Inflation: Generative AI and the Devaluation of Professional Signaling"
+message: "If you use this paper, please cite it using the metadata below."
+type: report
+authors:
+  - family-names: Himpfen
+    given-names: Brandon
+license: CC-BY-4.0
+abstract: >
+  A conceptual research paper introducing Signal Inflation, a framework
+  describing how generative AI reduces the cost of producing professional
+  and informational signals across communication systems.
+keywords:
+  - signal inflation
+  - generative AI
+  - signaling theory
+  - communication systems
+  - labor economics
